@@ -1,0 +1,10 @@
+google-cloud-bigquery
+google-cloud-iot
+google-cloud-aiplatform
+dash
+pandas
+numpy
+matplotlib
+python-dotenv
+openai
+requests
