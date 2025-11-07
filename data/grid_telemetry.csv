@@ -1,1 +1,5 @@
+timestamp,sector,voltage,current,temp,load,asset_status
+2025-09-01T00:00:00,N1,223.5,120,42.1,1,OK
+2025-09-01T00:00:00,N2,221.0,160,38.2,1,OK
+2025-09-01T00:00:00,N3,216.7,90,49.2,1,FAULT
 
