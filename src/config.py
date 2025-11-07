@@ -1,0 +1,11 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+GCP_PROJECT_ID = os.getenv("GCP_PROJECT_ID")
+BIGQUERY_DATASET = os.getenv("BIGQUERY_DATASET")
+GOOGLE_APPLICATION_CREDENTIALS = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+VERTEX_AI_REGION = os.getenv("VERTEX_AI_REGION")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+MAPS_API_KEY = os.getenv("MAPS_API_KEY")
