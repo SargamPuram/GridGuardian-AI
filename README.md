@@ -25,7 +25,7 @@ GridGuardian AI is an end-to-end solution to anticipate, analyze, and respond to
 
 ## Dataset sources
 - [KAUST Red Sea Meteorological Data](https://reefecology.kaust.edu.sa/research/detail/biodiversity-of-saudi-arabian-red-sea-coral-reefs)
-- [Open Grid Data - Sample Telemetry]()
+- [Open Grid Data - Sample Telemetry]
 
 ## Technologies
 Vertex AI, Gemini AI, BigQuery, IoT Core, Google Maps API, Python, Dash
